@@ -1,5 +1,5 @@
 # The Tribute Page
-I recently created a [tribute page](google.com) for **Sheikh Mujibur Rahman** using **HTML** and **CSS**, and I'm thrilled with how it turned out.
+I recently created a [tribute page](https://mdkawserishtiak.github.io/the-tribute-page/) for **Sheikh Mujibur Rahman** using **HTML** and **CSS**, and I'm thrilled with how it turned out.
 As someone who's deeply inspired by Sheikh Mujibur Rahman's leadership and vision for a democratic Bangladesh, it was a
 privilege to pay homage to him through this project.
 
