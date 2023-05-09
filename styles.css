@@ -86,3 +86,9 @@ strong {
 .read-more__link:hover {
   color: red;
 }
+
+@media only screen and (min-width: 600px) {
+  .intro__name {
+    font-size: 40px;
+  }
+}
